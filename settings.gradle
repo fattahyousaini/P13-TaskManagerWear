@@ -1,0 +1,2 @@
+rootProject.name = "P13-TaskManagerWear"
+include ':app'
